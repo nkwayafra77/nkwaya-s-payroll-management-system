@@ -1,0 +1,25 @@
+================ PAYSLIP ================
+Month        : 11-2026
+Employee ID  : E001
+Name         : Nkwaya Frank
+Department   : Finance
+Job title    : Analyst
+Type         : Permanent
+Bank account : 001122
+-----------------------------------------
+Basic salary         :    600000.00
+Housing allowance    :     90000.00
+Transport allowance  :         0.00
+Medical allowance    :         0.00
+Performance bonus    :     60000.00
+Overtime pay         :     51136.36
+GROSS SALARY         :    801136.36
+-----------------------------------------
+Income tax           :    218340.91
+Social security      :     18000.00
+Absence deduction    :     54545.45
+Loan repayment       :         0.00
+TOTAL DEDUCTIONS     :    290886.36
+-----------------------------------------
+NET SALARY           :    510250.00
+=========================================
